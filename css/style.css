@@ -1,0 +1,129 @@
+.tt{
+    color: black;
+    text-align: center;
+    font-family: 'Ruslan Display', cursive;
+}
+
+.row1{
+    background-color: navy;
+}
+.intro{
+    color: blue;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+.introduction{
+    color: aqua;
+    font-family: 'Orbitron', sans-serif;
+}
+.histo{
+    color: blue;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+.history{
+    color: aqua;
+    font-family: 'Orbitron', sans-serif;
+}
+.scifi{
+    color: blue;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+.fiction{
+    color: aqua;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.row2{
+    background-color: darkgreen;
+}
+.nocommun{
+  color: rgb(8, 247, 8);
+  text-align: center;
+  font-family: 'Russo One', sans-serif;
+}
+.communication{
+ color: lightgreen;
+ font-family: 'Orbitron', sans-serif;
+}
+.manyworlds{
+    color: rgb(8, 247, 8);
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+.interacting{
+    color: lightgreen;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.row3{
+    background-color: rgb(199, 22, 22);
+}
+.spacegeom{
+    color: red;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+.geometries{
+    color: rgb(247, 7, 107);
+    font-family: 'Orbitron', sans-serif;
+}
+.generalrel{
+    color: red;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+.relativity{
+    color: rgb(247, 7, 107);
+    font-family: 'Orbitron', sans-serif;
+}
+.worms{
+    color: red;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+.wormholes{
+    color:rgb(247, 7, 107) ;
+    font-family: 'Orbitron', sans-serif;
+}
+.otherappr{
+    color: red;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+.approaches{
+    color: rgb(247, 7, 107);
+    font-family: 'Orbitron', sans-serif;
+}
+
+.row4{
+    background-color: rgb(202, 202, 29);
+}
+.pve{
+    color: yellow;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+.pe{
+    color:rgb(248, 252, 17);
+    font-family: 'Orbitron', sans-serif;
+}
+.grandp{
+    color: yellow;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+.grandfather{
+    color: rgb(248, 252, 17);
+    font-family: 'Orbitron', sans-serif;
+}
+.ontop{
+    color: yellow;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+.ontological{
+    color: rgb(248, 252, 17);
+    font-family: 'Orbitron', sans-serif;
+}
